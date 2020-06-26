@@ -13,20 +13,19 @@ The receiver can be controlled with either the supplied IR remote controller or 
 Please follow the following procedure to configure and confirm your network connection.
 
 1. From the CoreElec home screen, click on the gear icon in the upper left to go to settings  
-![Click Gear Icon For Settings](01_ClickGearsForSettings.JPG) 
+![Click Gear Icon For Settings](01_GearsIcon.png) 
 2. Next, click the CoreElec logo button to go to system settings.  If you are using a wired connection to a DHCP enabled gateway, then all you should 
 need to do is connect the Ethernet jack to an active port on your network and jump to step 6.  If you are using Wifi, continue to step 3.  
-![Click CoreElec logo button for system settings](02_ClickCoreElecLogiButtonForSettings.JPG)
+![Click CoreElec logo button for system settings](02_CoreElecButton.png)
 3. Under Connections select the first or active connection and click enter  
-![Under connections](03_UnderConnections.JPG)
-![Click existing Connection](04_ClickExistingConnection.JPG)
+![Click existing Connection](03_ExistingConnection.png)
 4. Click Refresh and wait until the list of available Wifi networks is displayed  
-![Click refresh and wait](05_ClickRefreshAndWait.JPG)
-![See available networks](06_SeeAvailableWifiConnectionsAndClicYours.JPG)
+![Click refresh and wait](04_Refresh.png)
+![See available networks](05_AvailableConnections.png)
 5. Select your network, click, and then click connect  
-![click connect for your network](07_ClickConnect.JPG)
+![click connect for your network](06_Connect.png)
 6. You should see the world icon next to your network connection indicating there is internet access  
-![see the world icon indicating internet access](08_SeeTheWorldIconOnYurConnectionIndicatingInternetAccess.JPG)
+![see the world icon indicating internet access](08_Connected.png)
 
 #### Remote Debug
 Once the box has established an internet connection it will automatically establish a remote debug link with Availink's support office.  The Availink
