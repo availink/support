@@ -25,7 +25,7 @@ need to do is connect the Ethernet jack to an active port on your network and ju
 5. Select your network, click, and then click connect  
 ![click connect for your network](06_Connect.png)
 6. You should see the world icon next to your network connection indicating there is internet access  
-![see the world icon indicating internet access](08_Connected.png)
+![see the world icon indicating internet access](07_Connected.png)
 
 #### Remote Debug
 Once the box has established an internet connection it will automatically establish a remote debug link with Availink's support office.  The Availink
